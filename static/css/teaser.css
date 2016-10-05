@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* Frontend CSS Document */
+
+body {
+  background: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* ### nav ### */
+
+.fixed-nav {
+display: none;
+}
+
+
+.mb-small {
+  margin-bottom: 30px;
+}
+
+.container {
+  position: absolute;
+  top: -185px;
+  max-width:420px;
+  padding-left:0px;
+  padding-right:0px;
+}
+
+
+.chat-container-image img {
+  width:100%;
+}
+
+.read-more {
+  display: none;
+}
+
+.fixed-read-more {
+  display: none;
+}
